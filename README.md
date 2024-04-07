@@ -1,7 +1,6 @@
 ## SMS Spam Detection
-# It's still on development.
 
-This project aims to detect spam messages in SMS (Short Message Service) using machine learning techniques. The dataset used in this project contains a collection of SMS messages labeled as spam or non-spam (ham). We build and evaluate several machine learning models to classify incoming messages as either spam or ham.
+<p>This project aims to detect spam messages in SMS (Short Message Service) using machine learning techniques. The dataset used in this project contains a collection of SMS messages labeled as spam or non-spam (ham). We build and evaluate several machine learning models to classify incoming messages as either spam or ham.</p>
 
 <h3>Data set link: </h3>
 <p> https://archive.ics.uci.edu/dataset/228/sms+spam+collection </p>
@@ -14,7 +13,7 @@ This project aims to detect spam messages in SMS (Short Message Service) using m
 
 <b>Model Evaluation</b>: The performance of each model is evaluated using standard metrics such as accuracy, precision, recall, and F1 score. Additionally, visualizations are provided to understand the distribution and relationships between features.
 
-</h4>By</h4>
+</h4>Prepared By</h4>
 </br>
 <p>Can Çalışkan</p>
 <p>Emirhan Aksoy</p>
