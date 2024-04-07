@@ -15,6 +15,7 @@ This project aims to detect spam messages in SMS (Short Message Service) using m
 <b>Model Evaluation</b>: The performance of each model is evaluated using standard metrics such as accuracy, precision, recall, and F1 score. Additionally, visualizations are provided to understand the distribution and relationships between features.
 
 </h4>By</h4>
+</br>
 <p>Can Çalışkan</p>
 <p>Emirhan Aksoy</p>
 <p>Mehmet Ağkale</p>
